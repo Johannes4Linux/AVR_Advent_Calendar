@@ -2,7 +2,7 @@
 
 ## About
 
-In this repository I will host the code for my AVR Advent calendar. You can learn how to use the most important interfaces of the AVR 8-bit microcontrollers.
+In this repository I will host the code for my AVR Advent calendar. You can learn how to use the most important interfaces of the AVR 8-bit microcontrollers in 24 days. Even if it is not Advent, this repository can be used as a tutorial to learn how to code with AVR 8-bit microcontrollers.
 
 ## What you need
 
