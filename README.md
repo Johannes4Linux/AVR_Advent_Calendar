@@ -28,3 +28,16 @@ If you already own a Raspberry Pi, you can use it to program the AVR controllers
 - UART to USB converter
 - Display cable to cut 
 
+## Watch it here
+
+You can watch videos to this tutorials on [Youtube](https://www.youtube.com/playlist?list=PLCGpd0Do5-I3cpoRJyqYOG4tCD6pVk_qs) or [Odysse](https://odysee.com/@Johannes4GNU_Linux:9). 
+
+## Support my work
+
+If you want to support my work, you can [buy me a coffee](https://www.buymeacoffee.com/johannes4linux) or send a tip over [PayPal](paypal.me/johannes4linux).
+
+## What you will learn
+
+1. How to install the needed software
+2. How to write and compile a simple program
+3. How to flash the program to the target controller
