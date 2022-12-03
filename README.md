@@ -34,7 +34,7 @@ You can watch videos to this tutorials on [Youtube](https://www.youtube.com/play
 
 ## Support my work
 
-If you want to support my work, you can [buy me a coffee](https://www.buymeacoffee.com/johannes4linux) or send a tip over [PayPal](paypal.me/johannes4linux).
+If you want to support my work, you can [buy me a coffee](https://www.buymeacoffee.com/johannes4linux) or send a tip over [PayPal](https://paypal.me/johannes4linux).
 
 ## What you will learn
 
