@@ -41,4 +41,4 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 1. How to install the needed software
 2. How to write and compile a simple program
 3. How to flash the program to the target controller
-1
+4. Bit Operations
