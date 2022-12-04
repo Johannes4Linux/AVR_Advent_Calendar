@@ -5,7 +5,7 @@ texte=("1" "2" "3" "4. Bit Operations" "5. LED Traffic light" "6. Button control
 day = "$(date '+%d')"
 echo ${texte[$day]}
 
-git add $today_*
+git add $today_* README.md
 git commit -m "Upload Day $day"
 git push
 
