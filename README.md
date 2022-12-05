@@ -26,7 +26,6 @@ If you already own a Raspberry Pi, you can use it to program the AVR controllers
 
 - USBASP programmer
 - UART to USB converter
-- Display cable to cut 
 
 ## Watch it here
 
