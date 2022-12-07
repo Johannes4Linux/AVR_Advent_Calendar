@@ -2,4 +2,4 @@
 
 This example shows you how to control a 7 segment display with an Atmega88pa controller.
 
-![Setup](segment.png)
+![Setup](segments.png)
