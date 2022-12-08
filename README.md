@@ -44,3 +44,4 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 5. LED Traffic light
 6. Button control
 7. 7 Segment Display
+8. External Interrupt
