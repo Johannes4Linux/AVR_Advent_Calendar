@@ -45,3 +45,4 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 6. Button control
 7. 7 Segment Display
 8. External Interrupt
+9. Using an external crystal
