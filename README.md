@@ -52,3 +52,4 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 13. Analog Digital Converter
 14. SPI Master 75HC595
 15. SPI Master 74HC165
+16. SPI Master with USI
