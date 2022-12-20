@@ -55,3 +55,4 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 16. SPI Slave
 17. SPI Master with USI
 18. EEPROM for non volatile data
+19. I2C Master with LM75A Temperatur sensor
