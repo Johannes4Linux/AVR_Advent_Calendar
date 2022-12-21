@@ -57,3 +57,4 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 18. EEPROM for non volatile data
 19. I2C Master with LM75A Temperatur sensor
 20. I2C Slave
+21. Attiny44 USI I2C Master
