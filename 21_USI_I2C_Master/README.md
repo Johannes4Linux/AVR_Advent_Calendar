@@ -1,3 +1,5 @@
-# First Program
+# USI I2C Master
 
-Here we will write our first program for a AVR microcontroller and write a Makefile to compile it.
+Here we will test our Atmega88pa I2C Slave by using the USI of an Attiny44 in I2C Master Mode.
+
+![Setup](attiny.png)
