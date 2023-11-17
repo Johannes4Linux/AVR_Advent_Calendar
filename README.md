@@ -59,4 +59,5 @@ If you want to support my work, you can [buy me a coffee](https://www.buymeacoff
 20. I2C Slave
 21. Attiny44 USI I2C Master
 22. Timer
-22. Timer
+23. PWM
+24. Watchdogs
